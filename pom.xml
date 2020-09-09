@@ -9,6 +9,7 @@
         <module>foodie-service</module>
         <module>foodie-pojo</module>
         <module>foodie-common</module>
+        <module>foodie-web</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
